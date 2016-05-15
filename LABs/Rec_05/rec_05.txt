@@ -1,0 +1,67 @@
+test A2
+Section: A2; Tuesday 4PM
+Student: John; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: George; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Paul; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Ringo; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+Moe has Section: A2; Tuesday 4PM
+Student: John; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: George; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Paul; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Ringo; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+test B3
+Section: B3; Thursday 11AM
+Student: Thorin; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Dwalin; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Balin; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Kili; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Fili; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Dori; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Nori; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Ori; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Oin; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Gloin; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Bifur; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Bofur; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Bombur; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+Jane has Section: B3; Thursday 11AM
+Student: Thorin; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Dwalin; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Balin; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Kili; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Fili; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Dori; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Nori; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Ori; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Oin; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Gloin; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Bifur; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Bofur; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Bombur; Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+Modeling week: 1
+End of week one
+Moe has Section: A2; Tuesday 4PM
+Student: John; Grades: -1 7 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: George; Grades: -1 7 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Paul; Grades: -1 9 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Ringo; Grades: -1 7 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+Modeling week: 2
+End of week two
+Moe has Section: A2; Tuesday 4PM
+Student: John; Grades: -1 7 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: George; Grades: -1 7 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Paul; Grades: -1 9 10 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+Student: Ringo; Grades: -1 7 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+testing reset()
+Section: A2; Tuesday 4PM
+
+Moe has Section: A2; Tuesday 4PM
+
+The modeler programmer who wrote main would need to do more thorough testing by writing more code for more classes and more weeks, of course.
+You write the classes needed for this code to work as it should.
